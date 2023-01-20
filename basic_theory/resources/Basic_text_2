@@ -1,0 +1,39 @@
+{
+    "hub_gw_parameters": {
+        "hub_gw_underlay_uno_v_no": "V90171643",
+        "hub_gw_region": "JapanEast",
+        "hub_gw_size": "free",
+        "hub_gw_domain": "Versa",
+        "hub_gw_bandwidth": "100",
+        "hub_gw_redundancy_type": "Dual",
+        "hub_gw_borrowed_ip_address": "192.168.20.16",
+        "hub_gw_borrowed_ip_address_subnet_mask": "29",
+        "hub_gw_underlay_uno_parent_n_no": "N201710241",
+        "hub_gw_management_name": "HUBGW_20171025",
+        "hub_gw_agency_operator_id": "-",
+        "hub_gw_company_remarks": "-",
+        "hub_gw_description": "Test",
+        "hub_gw_spare_parameter1": "1",
+        "hub_gw_spare_parameter2": "2",
+        "hub_gw_spare_parameter3": "3",
+        "hub_gw_spare_parameter4": "4",
+        "hub_gw_spare_parameter5": "5",
+        "hub_gw_spare_parameter6": "6",
+        "hub_gw_spare_parameter7": "7",
+        "hub_gw_spare_parameter8": "8",
+        "hub_gw_spare_parameter9": "9",
+        "hub_gw_spare_parameter10": "10",
+        "hub_gw_spare_parameter11": "11",
+        "hub_gw_spare_parameter12": "12",
+        "hub_gw_spare_parameter13": "13",
+        "hub_gw_spare_parameter14": "14",
+        "hub_gw_spare_parameter15": "15"
+    },
+    "hub_gw_versa_tenant_parameters": {
+        "hub_gw_versa_vrf_no": "2",
+        "hub_gw_versa_org_user_name": "LSBLK123398GFY5",
+        "hub_gw_versa_org_user_name_first": "LSBLS2233GFY5",
+        "hub_gw_versa_org_user_name_last": "LSBLF2233GFY5",
+        "hub_gw_versa_org_user_password": "~H5675|][{}678r5"
+    }
+}
